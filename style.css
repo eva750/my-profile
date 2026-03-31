@@ -1,32 +1,27 @@
 body {
 	background-color: #E3BAD5;
 	color: #211A44;
-	font-family: "Open Sens", sans-serif;
+	font-family: "Open Sens";
 	font-size: 25px;
 	line-height: lighter;
 }
 
 h1, h2, h3 {
 	color: #211A44;
-	font-family: "Inter", sans-serif;
+	font-family: "Inter";
 }
 
 h1 {
 	font-size: 55px;
-	letter-spacing: 3px;
 	line-height: 50px;
 }
 
 h2 {
 	font-size: 45px;
-	letter-spacing: 3px;
-	line-height: 45px;
 }
 
 h3 {
 	font-size: 35px;
-	letter-spacing: 3px;
-	line-height: 20px;
 }
 
 a {
@@ -65,7 +60,7 @@ a:hover {
 .btn {
 	background-color: #5C5792;
 	color: white;
-	padding: 15px 20px;
+	padding: 10px 15px;
 	font-size: 25px;
 }
 
@@ -81,5 +76,5 @@ a:hover {
 
 .list-inline li {
 	display: inline;
-	padding: 0px 20px;
+	padding: 0px 15px;
 }
